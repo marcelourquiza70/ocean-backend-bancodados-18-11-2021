@@ -17,7 +17,7 @@ async function main() {
     const db = client.db(dbName);
 
     const collection = db.collection("herois");
-    const collection = undefined;
+    //const collection = undefined;
 
     const app = express();
 
