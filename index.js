@@ -9,7 +9,7 @@ const { MongoClient, ObjectId } = require("mongodb");
 
 //const url = "mongodb://localhost:27017";
 const url = "mongodb+srv://admin:CVM$L8.BsR7nA94@cluster0.r54qd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
-const dbName = "ocean_bancodados_18_11_2021";
+const dbName = "ocean_bancodados_19_11_2021";
 
 async function main() {
     const client = await MongoClient.connect(url);
