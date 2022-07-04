@@ -1,1 +1,1 @@
-Estudo de requisições GET, PUT, DELETE, usando express e MongoDB
+Estudo de requisições GET, POST, PUT, DELETE, usando express e MongoDB
