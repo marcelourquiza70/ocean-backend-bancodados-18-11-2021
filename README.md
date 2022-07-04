@@ -1,1 +1,1 @@
-Estudo de requisições CRUD usando node.js e express
+Estudo de requisições GET, PUT, DELETE, usando express e MongoDB
